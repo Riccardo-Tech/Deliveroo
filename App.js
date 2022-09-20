@@ -5,7 +5,7 @@ export default function App() {
   return (
    <SafeAreaView>
     <Text>
-      cioa
+      BABBA BIA
     </Text>
   </SafeAreaView> 
   );
